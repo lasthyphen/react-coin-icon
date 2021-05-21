@@ -145,6 +145,8 @@ export { default as Dfn } from './Dfn.js';
 export { default as Dgb } from './Dgb.js';
 export { default as Dgd } from './Dgd.js';
 export { default as Dgx } from './Dgx.js';
+export { default as Djt } from './Djt.js';
+export { default as Djt061304 } from './Djt061304.js';
 export { default as Dlt } from './Dlt.js';
 export { default as Dnr } from './Dnr.js';
 export { default as Dnt } from './Dnt.js';
